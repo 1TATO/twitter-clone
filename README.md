@@ -46,4 +46,10 @@ $ yarn start
 
 ---
 
+## :memo: Licença
+
+This project is under MIT license. See the [LICENSE](LICENSE) for more information.
+
+---
+
 Made with ♥ by José Neto :wave: [Get in touch](https://www.linkedin.com/in/jose-netopr/)
